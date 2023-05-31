@@ -29,6 +29,12 @@ git clone https://github.com/Samorange1/SINDy.git
 python demo.py
 ```
 
+## Implementation
+Shows the implementation of the Planar Pushing Task in Gym Simulation Environment
+
+https://github.com/adityaaap/Trajectory-Planning-using-Image-Data/assets/112677012/e18c4a22-6873-49cf-a0fd-5327c1a14c84
+
+
 
 ## Documentation
 
