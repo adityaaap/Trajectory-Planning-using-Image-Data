@@ -9,7 +9,7 @@ This repository contains the code for using the SINDy (Sparse Identification of 
 
 ## Introduction
 
-The goal of this project is to apply the SINDy model to a planar pushing task using a manipulator. We collect data of the manipulator's behavior in a simulation environment and pass it through the SINDy Autoencoder to discover the underlying dynamics and predict future states. The SINDy model offers a comprehensive analysis, exploring different hyperparameters, dynamics methods, and a comparison with the E2C model.
+The goal of this project is to apply the SINDy model to a planar pushing task using a manipulator. We collect data of the manipulator's behavior in a simulation environment and pass it through the SINDy Autoencoder to discover the underlying dynamics and predict future states. The SINDy model offers a comprehensive analysis, exploring different hyperparameters, dynamics methods, and a comparison with the Embed to Control (E2C) model.
 
 ## Getting Started
 
