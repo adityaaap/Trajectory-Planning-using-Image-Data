@@ -32,7 +32,7 @@ python demo.py
 
 ## Documentation
 
-For detailed documentation on the project, including explanations of the SINDy model, data collection process, and training procedure, please refer to the [Documentation](https://github.com/Samorange1/SINDy/blob/main/Project%20Report.pdf) file.
+For detailed documentation on the project, including explanations of the SINDy model, data collection process, and training procedure, please refer to the [Project Report](https://github.com/Samorange1/SINDy/blob/main/Project%20Report.pdf) file.
 
 ## Acknowledgments
 
