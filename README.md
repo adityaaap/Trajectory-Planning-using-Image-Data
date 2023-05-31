@@ -32,7 +32,7 @@ python demo.py
 
 ## Documentation
 
-For detailed documentation on the project, including explanations of the SINDy model, data collection process, and training procedure, please refer to the [Documentation](documentation.md) file.
+For detailed documentation on the project, including explanations of the SINDy model, data collection process, and training procedure, please refer to the [Documentation](Project Report.pdf) file.
 
 ## Acknowledgments
 
