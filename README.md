@@ -16,6 +16,9 @@ The goal of this project is to apply the SINDy model to a planar pushing task us
 To get started with this project, follow the steps below:
 
 1. Clone the repository:
+```
+git clone https://github.com/Samorange1/SINDy.git
+```
 
 2. Install the necessary dependencies. Make sure you have Python 3.x and pip installed. Then, run the following command: 
 ```
